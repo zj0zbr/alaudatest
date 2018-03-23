@@ -1,8 +1,5 @@
 public class Test{
 	public static void main (String[] args){
-		System.out.println("this is a Test");
+		System.out.println("this is a hello");
 	}
 }
-class Studnt{
-		
-	}
