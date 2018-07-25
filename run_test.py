@@ -1,2 +1,2 @@
 print "hello world221a"
-print "nice github"
+print "nice github yes"
