@@ -1,2 +1,2 @@
 print "hello world!"
-print "name:zh1"
+print "name:zhao"
